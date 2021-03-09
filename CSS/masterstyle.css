@@ -10,3 +10,9 @@
 html, body{
     background-color: aqua;
 }
+
+nav,section, footer, article, aside{
+     border:10cm saddlebrown;
+     padding: 10cm;
+
+}
