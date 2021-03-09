@@ -23,11 +23,7 @@ nav, section, footer, article, aside{
     padding: 1rem;
 }
 
-table{
-align-self: center;
-box-align: center;
 
-}
 
 article, aside{
     width:40%;
