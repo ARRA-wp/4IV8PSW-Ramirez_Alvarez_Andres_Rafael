@@ -23,11 +23,6 @@ nav, section, footer, article, aside{
     padding: 1rem;
 }
 
-.tabla{
-align-content: center;
-border: 5cm;
-
-}
 
 article, aside{
     width:40%;
