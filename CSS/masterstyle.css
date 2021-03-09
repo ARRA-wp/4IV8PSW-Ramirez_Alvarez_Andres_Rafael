@@ -24,7 +24,8 @@ nav, section, footer, article, aside{
 }
 
 .tabla{
-align-self:center;
+align-content: center;
+border: 5cm;
 
 }
 
