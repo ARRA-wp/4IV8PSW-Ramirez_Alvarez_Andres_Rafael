@@ -23,6 +23,11 @@ nav, section, footer, article, aside{
     padding: 1rem;
 }
 
+table{
+align-self: center;
+
+}
+
 article, aside{
     width:30%;
     display: inline-block;
