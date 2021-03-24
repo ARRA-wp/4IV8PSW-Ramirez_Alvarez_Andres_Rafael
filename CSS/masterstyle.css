@@ -6,7 +6,7 @@
 }
 
 html, body{
-    background-color: #080808;
+    background-color: #28f15a;
 }
 
 .main-container{
@@ -27,10 +27,10 @@ article, aside{
     width:40%;
     display: inline-block;
     height: 300px;
-    background-color: #75e4ec;
+    background-color: #ec75de;
 
 }
 
 nav, section, footer{
-    background-color: #2657f7;
+    background-color: #d0f726;
 }
